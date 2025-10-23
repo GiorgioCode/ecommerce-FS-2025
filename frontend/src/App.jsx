@@ -4,7 +4,7 @@ import Cart from "./components/Cart";
 import Footer from "./components/Footer";
 import NoEncontrada from "./pages/NoEncontrada";
 import Home from "./pages/Home";
-import Products from "./pages/Product";
+import Products from "./pages/Products";
 
 function App() {
     return (
